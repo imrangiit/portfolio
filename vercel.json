@@ -6,7 +6,7 @@
       "framework": "vite"
     },
     "portfolio-itom": {
-      "root": "portfolio-itom",
+      "root": ".",
       "framework": "sanity"
     }
   },
