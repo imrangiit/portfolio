@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+ <rect width="1200" height="630" fill="#f5efe4"/>
+ <path d="M0 480h1200M0 500h1200" stroke="#d8ccb9" stroke-width="3" stroke-dasharray="10 14"/>
+ <circle cx="920" cy="300" r="210" fill="#e5d4b9" stroke="#28231f" stroke-width="8"/>
+ <path d="M820 300h200M920 200v200" stroke="#28231f" stroke-width="15" stroke-linecap="round"/>
+ <text x="100" y="255" font-family="Arial,sans-serif" font-size="84" font-weight="700" fill="#28231f">IMRAN</text>
+ <text x="100" y="350" font-family="Arial,sans-serif" font-size="54" fill="#62584b">IMRAN • LEARNING DEVELOPER</text>
+ <text x="100" y="420" font-family="Arial,sans-serif" font-size="30" fill="#62584b">Python · C · C++ · HTML · Bots · Tools</text>
+</svg>
